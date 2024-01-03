@@ -1,0 +1,8 @@
+# Ignore node modules
+node_modules
+# Ignore the API Keys
+.env
+# Ignore the virtual enviroment
+venv/
+
+
